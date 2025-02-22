@@ -1,0 +1,1 @@
+alert("caution.......! be respectful to all the information as all IT rights reserved :) microsoft!!!")
